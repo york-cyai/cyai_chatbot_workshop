@@ -12,7 +12,7 @@ Participants build a simple AI chatbot, try to break it with prompt injection at
 
 Click the link below to open the workshop notebook in Google Colab. Nothing needs to be installed.
 
-**[Open cyai_chatbot.ipynb in Colab](https://colab.research.google.com/github/maheenb-04/cyai_chatbot_workshop/blob/main/cyai_chatbot.ipynb)**
+**[Open cyai_chatbot.ipynb in Colab](https://colab.research.google.com/github/york-cyai/cyai_chatbot_workshop/blob/main/cyai_chatbot.ipynb)**
 
 After it opens, choose **File > Save a copy in Drive** to keep your own copy of your work.
 
